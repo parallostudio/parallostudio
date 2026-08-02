@@ -1,20 +1,33 @@
+<div align="center">
+
+<img src="https://parallo.studio/assets/portal.webp" alt="Isometric paper-craft dioramas floating on a cream field: a corner bistro, a cliffside hotel, a product plinth, a greenhouse, and a layered rainbow archway opening onto a path" width="100%">
+
 # Parallo
 
-**Websites you fly through.**
+### Websites you fly through.
 
-Parallo builds scroll-scrubbed brand films for small businesses — one continuous
-camera flight through your world, driven by the visitor's scroll. No cuts, no page
-loads. You're inside one right now at **[parallo.studio](https://parallo.studio)**.
+Parallo builds **scroll-scrubbed brand films** for small businesses — one continuous
+camera flight through your world, driven by the visitor's scroll.
+No cuts. No page loads.
 
-### What we build
+[![Enter the flight](https://img.shields.io/badge/parallo.studio-Enter_the_flight-E75A3B?style=for-the-badge&labelColor=22203E)](https://parallo.studio)
+[![Email](https://img.shields.io/badge/Start_a_brief-david%40parallo.studio-22203E?style=for-the-badge&labelColor=E75A3B)](mailto:david@parallo.studio)
 
-- **Restaurants and bistros** — animated menu pages inside a single continuous camera flight
-- **Hotels and hospitality** — room-by-room tours a visitor moves through rather than reads about
-- **Products and ateliers** — 360° product pages that orbit the hero product instead of a grid of thumbnails
-- **SaaS and software** — dashboards, pipelines and integrations rendered as terrain a buyer can see
+</div>
 
-### Start a project
+---
+
+## Starting a project
 
 Tell us about your business and we'll come back with what your flight could be.
+The brief form on **[parallo.studio](https://parallo.studio)** asks three short
+questions — who you are, what the site is, and what you like the look of. Every
+field says why it's being asked, and only the first two steps are required.
 
-**[parallo.studio](https://parallo.studio)** · **david@parallo.studio**
+---
+
+<div align="center">
+
+**[parallo.studio](https://parallo.studio)** · **[david@parallo.studio](mailto:david@parallo.studio)**
+
+</div>
