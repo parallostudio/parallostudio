@@ -24,14 +24,6 @@ straight onto the film's timeline, so the visitor is scrubbing a real camera
 move rather than triggering effects at breakpoints. Every scene connects to the
 next in-camera. The flight never cuts.
 
-| | |
-|---|---|
-| **Render** | Scenes and camera moves rendered as isometric paper-craft dioramas, then encoded as one continuous flight. |
-| **Delivery** | Two encode tiers, chosen at runtime: AV1 for devices with a hardware decoder, H.264 for everything else. |
-| **Hosting** | Cloudflare Workers, static assets at the edge. |
-
----
-
 ## Starting a project
 
 Tell us about your business and we'll come back with what your flight could be.
