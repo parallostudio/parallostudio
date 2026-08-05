@@ -6,7 +6,7 @@
 
 ### Websites you fly through.
 
-Parallo builds **scroll-scrubbed websites** for small businesses — one continuous
+Parallo builds **scroll-scrubbed websites** for small businesses. One continuous
 camera flight through your world, driven by the visitor's scroll.
 No cuts. No page loads.
 
@@ -36,7 +36,7 @@ next in-camera. The flight never cuts.
 
 Tell us about your business and we'll come back with what your flight could be.
 The brief form on **[parallo.studio](https://parallo.studio)** asks three short
-questions — who you are, what the site is, and what you like the look of. Every
+questions: who you are, what the site is, and what you like the look of. Every
 field says why it's being asked, and only the first two steps are required.
 
 ---
