@@ -6,7 +6,7 @@
 
 ### Websites you fly through.
 
-Parallo builds **scroll-scrubbed brand films** for small businesses — one continuous
+Parallo builds **scroll-scrubbed websites** for small businesses — one continuous
 camera flight through your world, driven by the visitor's scroll.
 No cuts. No page loads.
 
