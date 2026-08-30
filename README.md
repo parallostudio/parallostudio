@@ -7,8 +7,7 @@
 ### Websites you fly through.
 
 Parallo builds **custom 3d websites** for nonprofit organizations that can't
-afford one. Free. Not a template with photos on it, a space the visitor scrolls
-through.
+afford one. All of our websites are free and unique, not a template with photos on it.
 
 [![Enter the flight](https://img.shields.io/badge/parallo.studio-Enter_the_flight-E75A3B?style=for-the-badge&labelColor=22203E)](https://parallo.studio)
 [![Email](https://img.shields.io/badge/Start_a_brief-david%40parallo.studio-22203E?style=for-the-badge&labelColor=E75A3B)](mailto:david@parallo.studio)
