@@ -6,9 +6,9 @@
 
 ### Websites you fly through.
 
-Parallo builds **scroll-scrubbed websites** for small businesses. One continuous
-camera flight through your world, driven by the visitor's scroll.
-No cuts. No page loads.
+Parallo builds **custom 3d websites** for nonprofit organizations that can't
+afford one. Free. Not a template with photos on it, a space the visitor scrolls
+through.
 
 [![Enter the flight](https://img.shields.io/badge/parallo.studio-Enter_the_flight-E75A3B?style=for-the-badge&labelColor=22203E)](https://parallo.studio)
 [![Email](https://img.shields.io/badge/Start_a_brief-david%40parallo.studio-22203E?style=for-the-badge&labelColor=E75A3B)](mailto:david@parallo.studio)
@@ -24,12 +24,21 @@ straight onto the film's timeline, so the visitor is scrubbing a real camera
 move rather than triggering effects at breakpoints. Every scene connects to the
 next in-camera. The flight never cuts.
 
+| | |
+|---|---|
+| **Render** | Scenes and camera moves rendered as isometric paper-craft dioramas, then encoded as one continuous flight. |
+| **Delivery** | Two encode tiers, chosen at runtime: AV1 for devices with a hardware decoder, H.264 for everything else. |
+| **Hosting** | Cloudflare Workers, static assets at the edge. |
+
+---
+
 ## Starting a project
 
-Tell us about your business and we'll come back with what your flight could be.
-The brief form on **[parallo.studio](https://parallo.studio)** asks three short
-questions: who you are, what the site is, and what you like the look of. Every
-field says why it's being asked, and only the first two steps are required.
+Tell us about your organization and we'll come back with what your site could
+look like. The brief form on **[parallo.studio](https://parallo.studio)** asks
+three short questions: who you are, what the site is, and what you like the look
+of. Every field says why it's being asked, and only the first two steps are
+required.
 
 ---
 
